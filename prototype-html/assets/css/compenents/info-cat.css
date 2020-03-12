@@ -8,7 +8,9 @@
 .inf{
     background-color: white;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
+
 body{
     background:  #E5E5E5;
 }
@@ -45,4 +47,14 @@ body{
 }
 .cat-top-text{
 
+}
+.cat-bottom{
+    padding-bottom: 20px;
+    text-align: center;
+}
+.bottom-img{
+    width: 100%;
+}
+.price{
+    font-size: 23px;
 }
