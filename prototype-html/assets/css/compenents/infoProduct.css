@@ -6,12 +6,6 @@
 	margin-right: auto;
 }
 
-/*.row-flex {
-    display: flex;
-    flex-flow: row nowrap;
-    width: 1000px;
-}*/
-
 .card p {
 	font-size: 25px;
 }
