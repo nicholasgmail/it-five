@@ -2,6 +2,7 @@
 * Бандл сss стили для игры
 **/
 /*стили*/
+@import "compenents/global.css";
 @import "compenents/blog.css";
 @import "compenents/infoProduct.css";
 @import "compenents/info-cat.css";
